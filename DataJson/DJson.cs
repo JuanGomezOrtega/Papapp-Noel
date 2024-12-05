@@ -8,5 +8,6 @@ namespace DataJson
 {
     public class DJson
     {
+        public DJson() { }
     }
 }
