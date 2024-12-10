@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Juan\\source\\repos\\Papapp Noel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4697F0E-FC30-40A9-89DE-1E3BA733FB2A}|DataJson\\DataJson.csproj|c:\\users\\juan\\source\\repos\\papapp noel\\datajson\\djson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{92BD250B-EF00-4F77-BE8C-28F3BF0DB4DD}|Login\\Login.csproj|C:\\Users\\Juan\\source\\repos\\Papapp Noel\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{92BD250B-EF00-4F77-BE8C-28F3BF0DB4DD}|Login\\Login.csproj|solutionrelative:login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BD250B-EF00-4F77-BE8C-28F3BF0DB4DD}|Login\\Login.csproj|c:\\users\\juan\\source\\repos\\papapp noel\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BD250B-EF00-4F77-BE8C-28F3BF0DB4DD}|Login\\Login.csproj|solutionrelative:login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4697F0E-FC30-40A9-89DE-1E3BA733FB2A}|DataJson\\DataJson.csproj|C:\\Users\\Juan\\source\\repos\\Papapp Noel\\datajson\\djson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4697F0E-FC30-40A9-89DE-1E3BA733FB2A}|DataJson\\DataJson.csproj|solutionrelative:datajson\\djson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4D494CA-8832-4A6F-9AAB-5571F767719B}|Bussines\\Bussines.csproj|c:\\users\\juan\\source\\repos\\papapp noel\\bussines\\bjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4D494CA-8832-4A6F-9AAB-5571F767719B}|Bussines\\Bussines.csproj|C:\\Users\\Juan\\source\\repos\\Papapp Noel\\bussines\\bjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4D494CA-8832-4A6F-9AAB-5571F767719B}|Bussines\\Bussines.csproj|solutionrelative:bussines\\bjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92BD250B-EF00-4F77-BE8C-28F3BF0DB4DD}|Login\\Login.csproj|c:\\users\\juan\\source\\repos\\papapp noel\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{92BD250B-EF00-4F77-BE8C-28F3BF0DB4DD}|Login\\Login.csproj|solutionrelative:login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{92BD250B-EF00-4F77-BE8C-28F3BF0DB4DD}|Login\\Login.csproj|C:\\Users\\Juan\\source\\repos\\Papapp Noel\\login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BD250B-EF00-4F77-BE8C-28F3BF0DB4DD}|Login\\Login.csproj|solutionrelative:login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BD250B-EF00-4F77-BE8C-28F3BF0DB4DD}|Login\\Login.csproj|C:\\Users\\Juan\\source\\repos\\Papapp Noel\\login\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{92BD250B-EF00-4F77-BE8C-28F3BF0DB4DD}|Login\\Login.csproj|solutionrelative:login\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BD250B-EF00-4F77-BE8C-28F3BF0DB4DD}|Login\\Login.csproj|C:\\Users\\Juan\\source\\repos\\Papapp Noel\\login\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{92BD250B-EF00-4F77-BE8C-28F3BF0DB4DD}|Login\\Login.csproj|solutionrelative:login\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +38,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\Papapp Noel\\Login\\App.config",
+              "RelativeDocumentMoniker": "Login\\App.config",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\Papapp Noel\\Login\\App.config",
+              "RelativeToolTip": "Login\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-10T16:19:05.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\Papapp Noel\\Login\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Login\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\Papapp Noel\\Login\\Properties\\Resources.resx",
+              "RelativeToolTip": "Login\\Properties\\Resources.resx",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAswHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-12-10T16:13:48.159Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\Papapp Noel\\Login\\Form1.cs",
+              "RelativeDocumentMoniker": "Login\\Form1.cs",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\Papapp Noel\\Login\\Form1.cs",
+              "RelativeToolTip": "Login\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:36:56.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\Papapp Noel\\Login\\Program.cs",
+              "RelativeDocumentMoniker": "Login\\Program.cs",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\Papapp Noel\\Login\\Program.cs",
+              "RelativeToolTip": "Login\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:23:21.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BJson.cs",
               "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\Papapp Noel\\Bussines\\BJson.cs",
               "RelativeDocumentMoniker": "Bussines\\BJson.cs",
@@ -34,25 +99,23 @@
               "RelativeToolTip": "Bussines\\BJson.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T15:16:10.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T15:16:10.283Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DJson.cs",
               "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\Papapp Noel\\DataJson\\DJson.cs",
               "RelativeDocumentMoniker": "DataJson\\DJson.cs",
               "ToolTip": "C:\\Users\\Juan\\source\\repos\\Papapp Noel\\DataJson\\DJson.cs",
               "RelativeToolTip": "DataJson\\DJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T15:14:27.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T15:14:27.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\Papapp Noel\\Login\\Form1.cs",
               "RelativeDocumentMoniker": "Login\\Form1.cs",
