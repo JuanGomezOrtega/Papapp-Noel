@@ -16,5 +16,23 @@ namespace Login
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            bPapa.FlatAppearance.BorderSize = 0;
+            bElfo.FlatAppearance.BorderSize = 0;
+        }
+
+        private void bPapa_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("pa ti todo carbón");
+        }
+
+        private void bElfo_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Si lo es, si lo es, es un Elfo");
+        }
+
+       
     }
 }
